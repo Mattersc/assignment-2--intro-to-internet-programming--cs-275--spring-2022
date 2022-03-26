@@ -18,7 +18,7 @@ h1 {
   margin-right: 0px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
-  color:lightskyblue;
+  color:black;
 }
 
 h2 {
@@ -43,25 +43,8 @@ li1{
   padding: 5px;
 }
 
-.hero-image {
 
-  width: 100vw;
-  height: 100vh;
 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  text-align: center;
-  color: white; 
-
-  background-image: url('https://live.staticflickr.com/1873/44119941604_52d2173d2d_b.jpg');
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-color: white;
-}
 .btn{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: black;
